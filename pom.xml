@@ -95,6 +95,16 @@
             <version>4.13.2</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>cn.hutool</groupId>
+            <artifactId>hutool-all</artifactId>
+            <version>5.8.9</version>
+        </dependency>
+        <dependency>
+            <groupId>com.yupi</groupId>
+            <artifactId>yuapi-client-sdk</artifactId>
+            <version>0.0.2</version>
+        </dependency>
     </dependencies>
 
     <build>
